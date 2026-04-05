@@ -1,0 +1,2 @@
+# astrbot_plugin_glm_quota
+用于astrbot的一个glm用量显示插件
