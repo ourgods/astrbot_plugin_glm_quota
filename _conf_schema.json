@@ -1,0 +1,8 @@
+{
+  "api_key": {
+    "description": "智谱 AI 的 API Key",
+    "type": "string",
+    "hint": "填入你的 API Key，无需加 Bearer 前缀",
+    "obvious_hint": true
+  }
+}
